@@ -1,0 +1,18 @@
+algorithm- my evening routine
+
+
+program of my evening routine
+
+function geteveningRoutine( ){
+         getoutofclass( )
+         goforsupper( )
+         gotohostel( )
+         brushteeth( )
+         takeabath( )
+         wearpajamas( )
+         pray( )
+         sleep( )
+         
+         
+}
+        geteveningRoutine( )
